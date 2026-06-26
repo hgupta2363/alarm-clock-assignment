@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "time": "19:45",
+        "enabled": true,
+        "daily": false,
+        "date": "25/06/2026"
+    },
+    {
+        "id": 2,
+        "time": "19:49",
+        "enabled": true,
+        "daily": false,
+        "date": "25/06/2026"
+    },
+    {
+        "id": 3,
+        "time": "15:48",
+        "enabled": true,
+        "daily": false,
+        "date": "26/06/2026"
+    }
+]
